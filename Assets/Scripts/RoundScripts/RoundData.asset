@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b598776c3f90df849a4f25b64a2bf5cd, type: 3}
+  m_Name: RoundData
+  m_EditorClassIdentifier: 
+  roundZip:
+  - roundNumber: 1
+    monsterHealth: 300
+    monsterAttack: 50
+    monsterAttackSpeed: 2
+    reward: 0
+  - roundNumber: 2
+    monsterHealth: 400
+    monsterAttack: 50
+    monsterAttackSpeed: 2
+    reward: 0
+  - roundNumber: 3
+    monsterHealth: 500
+    monsterAttack: 50
+    monsterAttackSpeed: 2
+    reward: 0
+  - roundNumber: 4
+    monsterHealth: 600
+    monsterAttack: 50
+    monsterAttackSpeed: 2
+    reward: 0
+  - roundNumber: 5
+    monsterHealth: 700
+    monsterAttack: 50
+    monsterAttackSpeed: 2
+    reward: 0
+  - roundNumber: 6
+    monsterHealth: 800
+    monsterAttack: 50
+    monsterAttackSpeed: 2
+    reward: 0
+  - roundNumber: 7
+    monsterHealth: 900
+    monsterAttack: 50
+    monsterAttackSpeed: 2
+    reward: 0
+  - roundNumber: 8
+    monsterHealth: 1000
+    monsterAttack: 50
+    monsterAttackSpeed: 2
+    reward: 0
+  - roundNumber: 9
+    monsterHealth: 1100
+    monsterAttack: 50
+    monsterAttackSpeed: 2
+    reward: 0
+  - roundNumber: 10
+    monsterHealth: 30000
+    monsterAttack: 50
+    monsterAttackSpeed: 2
+    reward: 0
+  - roundNumber: 11
+    monsterHealth: 2000
+    monsterAttack: 50
+    monsterAttackSpeed: 2
+    reward: 0
+  - roundNumber: 12
+    monsterHealth: 2200
+    monsterAttack: 50
+    monsterAttackSpeed: 2
+    reward: 0
+  - roundNumber: 13
+    monsterHealth: 2400
+    monsterAttack: 50
+    monsterAttackSpeed: 2
+    reward: 0
+  - roundNumber: 14
+    monsterHealth: 2600
+    monsterAttack: 50
+    monsterAttackSpeed: 2
+    reward: 0
+  - roundNumber: 15
+    monsterHealth: 2800
+    monsterAttack: 50
+    monsterAttackSpeed: 2
+    reward: 0
+  - roundNumber: 16
+    monsterHealth: 3000
+    monsterAttack: 50
+    monsterAttackSpeed: 2
+    reward: 0
+  - roundNumber: 17
+    monsterHealth: 3200
+    monsterAttack: 50
+    monsterAttackSpeed: 2
+    reward: 0
+  - roundNumber: 18
+    monsterHealth: 3400
+    monsterAttack: 50
+    monsterAttackSpeed: 2
+    reward: 0
+  - roundNumber: 19
+    monsterHealth: 3600
+    monsterAttack: 50
+    monsterAttackSpeed: 2
+    reward: 0
+  - roundNumber: 20
+    monsterHealth: 80000
+    monsterAttack: 50
+    monsterAttackSpeed: 2
+    reward: 0
+  - roundNumber: 21
+    monsterHealth: 5000
+    monsterAttack: 50
+    monsterAttackSpeed: 2
+    reward: 0
+  - roundNumber: 22
+    monsterHealth: 5500
+    monsterAttack: 50
+    monsterAttackSpeed: 2
+    reward: 0
+  - roundNumber: 23
+    monsterHealth: 6000
+    monsterAttack: 50
+    monsterAttackSpeed: 2
+    reward: 0
+  - roundNumber: 24
+    monsterHealth: 6500
+    monsterAttack: 50
+    monsterAttackSpeed: 2
+    reward: 0
+  - roundNumber: 25
+    monsterHealth: 7000
+    monsterAttack: 50
+    monsterAttackSpeed: 2
+    reward: 0
+  - roundNumber: 26
+    monsterHealth: 7500
+    monsterAttack: 50
+    monsterAttackSpeed: 2
+    reward: 0
+  - roundNumber: 27
+    monsterHealth: 8000
+    monsterAttack: 50
+    monsterAttackSpeed: 2
+    reward: 0
+  - roundNumber: 28
+    monsterHealth: 8500
+    monsterAttack: 50
+    monsterAttackSpeed: 2
+    reward: 0
+  - roundNumber: 29
+    monsterHealth: 9000
+    monsterAttack: 50
+    monsterAttackSpeed: 2
+    reward: 0
+  - roundNumber: 30
+    monsterHealth: 100000
+    monsterAttack: 50
+    monsterAttackSpeed: 2
+    reward: 0

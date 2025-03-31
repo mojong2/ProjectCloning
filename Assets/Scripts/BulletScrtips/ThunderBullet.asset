@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09d2949d10a53fe4ab208c64f1eb57b8, type: 3}
+  m_Name: ThunderBullet
+  m_EditorClassIdentifier: 
+  bulletZip:
+  - bulletName: "\uC804\uAE30 1\uB2E8\uACC4"
+    bulletNumber: 0
+    animator: {fileID: 9100000, guid: 32cddd43f062e854ab1a0a3c56a02324, type: 2}
+    bulletCount: -1
+    circleSize: 0.1
+    zDegree: -90
+    xPostion: -0.1
+    yPostion: 0.5
+    bulletExplain: "\uBE60\uB974\uAC8C \uC804\uAE30 \uAD6C\uB97C \uC3E9\uB2C8\uB2E4.
+      \uC0AC\uAC70\uB9AC\uB294 \uC911\uAC04\uAE4C\uC9C0\uC785\uB2C8\uB2E4."
+    damage: 100
+    hitCount: 1
+    bulletSpeed: 2
+    maxDistance: 2
+    minusCoolTime: 0.1
+    coolTime: 0.5
+    coolTimer: 0
+    endTime: 0.3
+    spawnNumber: 1
+    splashDeadAttack: 0
+    pungAnimation: 1
+    bulletType: 2
+  - bulletName: "\uC804\uAE30 2\uB2E8\uACC4"
+    bulletNumber: 1
+    animator: {fileID: 9100000, guid: 7c9b29f03f9441b4c8d5badf53c1828c, type: 2}
+    bulletCount: -1
+    circleSize: 0.3
+    zDegree: 0
+    xPostion: -0.1
+    yPostion: 0.5
+    bulletExplain: "\uB05D\uAE4C\uC9C0 \uAC00\uB294 \uC804\uAE30 \uAD6C\uB97C \uBCF4\uB0C5\uB2C8\uB2E4.\n\uBAA8\uB4E0
+      \uC801\uC744 \uACF5\uACA9\uD569\uB2C8\uB2E4."
+    damage: 700
+    hitCount: 99
+    bulletSpeed: 0.7
+    maxDistance: 5
+    minusCoolTime: 0.8
+    coolTime: 4
+    coolTimer: 0
+    endTime: 0
+    spawnNumber: 1
+    splashDeadAttack: 0
+    pungAnimation: 0
+    bulletType: 2
+  - bulletName: "\uC804\uAE30 3\uB2E8\uACC4"
+    bulletNumber: 2
+    animator: {fileID: 0}
+    bulletCount: 0
+    circleSize: 0
+    zDegree: 0
+    xPostion: 0
+    yPostion: 0
+    bulletExplain: 
+    damage: 0
+    hitCount: 0
+    bulletSpeed: 0
+    maxDistance: 0
+    minusCoolTime: 0
+    coolTime: 0
+    coolTimer: 0
+    endTime: 0
+    spawnNumber: 0
+    splashDeadAttack: 0
+    pungAnimation: 0
+    bulletType: 1
+  - bulletName: "\uC804\uAE30 4\uB2E8\uACC4"
+    bulletNumber: 3
+    animator: {fileID: 0}
+    bulletCount: 0
+    circleSize: 0
+    zDegree: 0
+    xPostion: 0
+    yPostion: 0
+    bulletExplain: 
+    damage: 0
+    hitCount: 0
+    bulletSpeed: 0
+    maxDistance: 0
+    minusCoolTime: 0
+    coolTime: 0
+    coolTimer: 0
+    endTime: 0
+    spawnNumber: 0
+    splashDeadAttack: 0
+    pungAnimation: 0
+    bulletType: 1
